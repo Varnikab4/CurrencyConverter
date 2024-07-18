@@ -1,0 +1,25 @@
+Currency Converter Project Summary
+
+Built using React.js and API integration, this project enables users to convert US Dollar (USD) amounts to Indian Rupees (INR) in real-time. Upon user input of an amount in USD, the project fetches the current exchange rate from an API and displays the equivalent amount in INR instantly.
+
+Features:
+
+Real-time Currency Conversion: Converts user-input USD amounts to INR based on real-time exchange rates fetched from an API.
+API Integration: Utilizes an external API to fetch up-to-date exchange rates between USD and INR.
+User-friendly Interface: Provides a simple and intuitive interface for entering USD amounts and viewing the converted INR amounts.
+React-based Frontend: Implements the frontend using React.js for dynamic rendering and seamless user interactions.
+Responsive Design: CSS styling ensures the application is visually appealing and responsive across different devices.
+Deployment: Hosted for accessibility and scalability, leveraging the capabilities of React and external API services.
+Technologies Used:
+
+Frontend: React.js, CSS
+API Integration: Fetches current exchange rates from an external API.
+Deployment: Deployed to ensure easy access and scalability.
+Purpose:
+The project aims to provide users with a convenient tool for converting USD amounts to INR in real-time, leveraging React.js for a smooth user experience and API integration for accurate currency conversions. It serves as a practical solution for users needing quick and reliable currency conversion services directly through a web interface.
+
+
+
+
+
+
